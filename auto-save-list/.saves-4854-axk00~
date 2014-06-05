@@ -1,0 +1,10 @@
+/home/axknightroad/SQL/SQLcomplier/test/test.c
+/home/axknightroad/SQL/SQLcomplier/test/#test.c#
+/home/axknightroad/SQL/SQLcomplier/sql.lex_analysis.l
+/home/axknightroad/SQL/SQLcomplier/#sql.lex_analysis.l#
+/home/axknightroad/SQL/SQLcomplier/sql.parsing.y
+/home/axknightroad/SQL/SQLcomplier/#sql.parsing.y#
+/home/axknightroad/SQL/SQLcomplier/sql.struct.h
+/home/axknightroad/SQL/SQLcomplier/#sql.struct.h#
+/home/axknightroad/SQL/SQLcomplier/sql.function.c
+/home/axknightroad/SQL/SQLcomplier/#sql.function.c#
